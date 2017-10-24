@@ -11,7 +11,5 @@ public class Main {
 		phone1.call(222);
 		phone2.call(333);
 
-
 	}
-
 }
