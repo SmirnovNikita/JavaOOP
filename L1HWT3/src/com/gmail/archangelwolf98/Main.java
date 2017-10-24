@@ -16,7 +16,5 @@ public class Main {
 		System.out.println(vectorOne.scalar(vectorTwo));
 		System.out.println(vectorV);
 		
-
 	}
-
 }
